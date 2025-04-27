@@ -1,0 +1,6 @@
+{
+  "symbols": ["BTCUSDT", "ETHUSDT", "BNBUSDT", "XRPUSDT", "SOLUSDT"],
+  "analysis_interval": 60,
+  "use_chatgpt_confirmation": true,
+  "budget_per_trade": 15
+}

@@ -1,0 +1,1511 @@
+[
+    {
+        "error": "HTTPSConnectionPool(host='testnet.binance.vision', port=443): Read timed out. (read timeout=10)",
+        "timestamp": "2025-04-25 03:17:35.052500"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:18:35.808475",
+        "price": {
+            "last": 94113.98,
+            "average": 93878.9205,
+            "change_1m": 0.0,
+            "change_5m": -0.09,
+            "change_15m": 0.2,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 0.56529,
+            "average": 1.5384980000000001,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 54.87,
+            "macd": 92.79099,
+            "macd_signal": 93.196,
+            "macd_trend": "bearish",
+            "ema20": 94099.14,
+            "ema50": 93958.05,
+            "bollinger": {
+                "upper": 94404.13,
+                "middle": 94072.09,
+                "lower": 93740.05
+            },
+            "stochastic": {
+                "k": 35.67,
+                "d": 44.96
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.87,
+            "ask_volume": 2.55,
+            "spread": 0.3899999999994179
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:18:54.039121",
+        "price": {
+            "last": 94113.46,
+            "average": 93878.91183333332,
+            "change_1m": 0.0,
+            "change_5m": -0.09,
+            "change_15m": 0.2,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 0.93953,
+            "average": 1.5447353333333333,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 54.83,
+            "macd": 92.74951,
+            "macd_signal": 93.18771,
+            "macd_trend": "bearish",
+            "ema20": 94099.09,
+            "ema50": 93958.03,
+            "bollinger": {
+                "upper": 94404.09,
+                "middle": 94072.07,
+                "lower": 93740.04
+            },
+            "stochastic": {
+                "k": 35.59,
+                "d": 44.93
+            }
+        },
+        "market_depth": {
+            "bid_volume": 4.09,
+            "ask_volume": 2.44,
+            "spread": 0.5199999999895226
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:19:55.187142",
+        "price": {
+            "last": 93972.32,
+            "average": 93884.47549999999,
+            "change_1m": 0.0,
+            "change_5m": -0.27,
+            "change_15m": 0.04,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 0.95035,
+            "average": 1.5365646666666666,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 44.08,
+            "macd": 70.43955,
+            "macd_signal": 87.54505,
+            "macd_trend": "bearish",
+            "ema20": 94087.28,
+            "ema50": 93966.66,
+            "bollinger": {
+                "upper": 94400.05,
+                "middle": 94076.95,
+                "lower": 93753.84
+            },
+            "stochastic": {
+                "k": 13.86,
+                "d": 33.05
+            }
+        },
+        "market_depth": {
+            "bid_volume": 4.27,
+            "ask_volume": 2.41,
+            "spread": 0.20000000001164153
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:20:55.755038",
+        "price": {
+            "last": 93827.58,
+            "average": 93886.13416666667,
+            "change_1m": 0.0,
+            "change_5m": -0.4,
+            "change_15m": -0.11,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 3.00207,
+            "average": 1.5328958333333336,
+            "activity": "high"
+        },
+        "indicators": {
+            "rsi": 36.3,
+            "macd": 41.62459,
+            "macd_signal": 78.76158,
+            "macd_trend": "bearish",
+            "ema20": 94062.44,
+            "ema50": 93958.22,
+            "bollinger": {
+                "upper": 94405.51,
+                "middle": 94073.55,
+                "lower": 93741.59
+            },
+            "stochastic": {
+                "k": 5.54,
+                "d": 18.34
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.88,
+            "ask_volume": 2.27,
+            "spread": 41.279999999998836
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:21:56.393778",
+        "price": {
+            "last": 93719.4,
+            "average": 93885.85333333333,
+            "change_1m": 0.0,
+            "change_5m": -0.52,
+            "change_15m": -0.17,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 1.02892,
+            "average": 1.538232,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 31.9,
+            "macd": 7.47726,
+            "macd_signal": 64.39511,
+            "macd_trend": "bearish",
+            "ema20": 94026.13,
+            "ema50": 93944.23,
+            "bollinger": {
+                "upper": 94428.39,
+                "middle": 94060.66,
+                "lower": 93692.93
+            },
+            "stochastic": {
+                "k": 0.0,
+                "d": 4.61
+            }
+        },
+        "market_depth": {
+            "bid_volume": 4.38,
+            "ask_volume": 2.43,
+            "spread": 82.72000000000116
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:22:56.966521",
+        "price": {
+            "last": 93777.74,
+            "average": 93889.17316666666,
+            "change_1m": 0.0,
+            "change_5m": -0.36,
+            "change_15m": -0.19,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 1.67551,
+            "average": 1.5428256666666664,
+            "activity": "high"
+        },
+        "indicators": {
+            "rsi": 34.7,
+            "macd": -7.56053,
+            "macd_signal": 50.75632,
+            "macd_trend": "bearish",
+            "ema20": 94009.65,
+            "ema50": 93943.02,
+            "bollinger": {
+                "upper": 94428.58,
+                "middle": 94056.86,
+                "lower": 93685.15
+            },
+            "stochastic": {
+                "k": 7.2,
+                "d": 5.79
+            }
+        },
+        "market_depth": {
+            "bid_volume": 4.22,
+            "ask_volume": 1.91,
+            "spread": 3.279999999998836
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:23:57.537572",
+        "price": {
+            "last": 93778.28,
+            "average": 93890.70866666666,
+            "change_1m": 0.0,
+            "change_5m": -0.21,
+            "change_15m": -0.26,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 1.43282,
+            "average": 1.5556083333333333,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 34.78,
+            "macd": -24.10515,
+            "macd_signal": 35.91397,
+            "macd_trend": "bearish",
+            "ema20": 93987.53,
+            "ema50": 93935.51,
+            "bollinger": {
+                "upper": 94437.02,
+                "middle": 94048.93,
+                "lower": 93660.84
+            },
+            "stochastic": {
+                "k": 7.26,
+                "d": 8.18
+            }
+        },
+        "market_depth": {
+            "bid_volume": 4.18,
+            "ask_volume": 2.54,
+            "spread": 1.7200000000011642
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:24:58.201241",
+        "price": {
+            "last": 93712.92,
+            "average": 93891.38266666667,
+            "change_1m": 0.0,
+            "change_5m": -0.08,
+            "change_15m": -0.62,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 1.54647,
+            "average": 1.5708501666666665,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 31.79,
+            "macd": -41.7076,
+            "macd_signal": 20.71762,
+            "macd_trend": "bearish",
+            "ema20": 93961.46,
+            "ema50": 93924.6,
+            "bollinger": {
+                "upper": 94450.11,
+                "middle": 94038.39,
+                "lower": 93626.66
+            },
+            "stochastic": {
+                "k": 0.0,
+                "d": 4.86
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.78,
+            "ask_volume": 2.38,
+            "spread": 0.3100000000122236
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:25:58.885966",
+        "price": {
+            "last": 93769.0,
+            "average": 93894.24716666667,
+            "change_1m": 0.0,
+            "change_5m": -0.04,
+            "change_15m": -0.56,
+            "high_1h": 94347.53,
+            "low_1h": 93601.46
+        },
+        "volume": {
+            "last": 1.23421,
+            "average": 1.5514426666666667,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 34.63,
+            "macd": -47.17125,
+            "macd_signal": 8.40051,
+            "macd_trend": "bearish",
+            "ema20": 93947.52,
+            "ema50": 93916.12,
+            "bollinger": {
+                "upper": 94451.63,
+                "middle": 94032.65,
+                "lower": 93613.67
+            },
+            "stochastic": {
+                "k": 8.21,
+                "d": 7.36
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.92,
+            "ask_volume": 2.33,
+            "spread": 3.1600000000034925
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:26:59.485508",
+        "price": {
+            "last": 93814.85,
+            "average": 93897.80366666666,
+            "change_1m": 0.0,
+            "change_5m": 0.04,
+            "change_15m": -0.53,
+            "high_1h": 94347.53,
+            "low_1h": 93628.76
+        },
+        "volume": {
+            "last": 2.33523,
+            "average": 1.5700561666666664,
+            "activity": "high"
+        },
+        "indicators": {
+            "rsi": 39.25,
+            "macd": -51.20378,
+            "macd_signal": -3.87378,
+            "macd_trend": "bearish",
+            "ema20": 93934.96,
+            "ema50": 93914.73,
+            "bollinger": {
+                "upper": 94454.41,
+                "middle": 94026.69,
+                "lower": 93598.98
+            },
+            "stochastic": {
+                "k": 15.86,
+                "d": 10.15
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.94,
+            "ask_volume": 2.61,
+            "spread": 0.010000000009313226
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:28:00.170618",
+        "price": {
+            "last": 93830.0,
+            "average": 93901.13783333333,
+            "change_1m": 0.0,
+            "change_5m": 0.05,
+            "change_15m": -0.55,
+            "high_1h": 94347.53,
+            "low_1h": 93628.76
+        },
+        "volume": {
+            "last": 1.94189,
+            "average": 1.572354833333333,
+            "activity": "high"
+        },
+        "indicators": {
+            "rsi": 40.75,
+            "macd": -52.39545,
+            "macd_signal": -13.65539,
+            "macd_trend": "bearish",
+            "ema20": 93924.98,
+            "ema50": 93911.98,
+            "bollinger": {
+                "upper": 94455.91,
+                "middle": 94024.08,
+                "lower": 93592.25
+            },
+            "stochastic": {
+                "k": 18.45,
+                "d": 14.17
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.69,
+            "ask_volume": 2.47,
+            "spread": 0.020000000004074536
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:29:00.800967",
+        "price": {
+            "last": 93810.85,
+            "average": 93904.04899999998,
+            "change_1m": 0.0,
+            "change_5m": 0.05,
+            "change_15m": -0.41,
+            "high_1h": 94347.53,
+            "low_1h": 93628.76
+        },
+        "volume": {
+            "last": 0.7756,
+            "average": 1.5677981666666665,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 39.41,
+            "macd": -54.26996,
+            "macd_signal": -21.85882,
+            "macd_trend": "bearish",
+            "ema20": 93914.12,
+            "ema50": 93908.58,
+            "bollinger": {
+                "upper": 94457.77,
+                "middle": 94016.82,
+                "lower": 93575.86
+            },
+            "stochastic": {
+                "k": 19.03,
+                "d": 17.78
+            }
+        },
+        "market_depth": {
+            "bid_volume": 3.76,
+            "ask_volume": 2.46,
+            "spread": 0.19999999999708962
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:30:01.372517",
+        "price": {
+            "last": 93674.92,
+            "average": 93904.58616666666,
+            "change_1m": 0.0,
+            "change_5m": -0.1,
+            "change_15m": -0.59,
+            "high_1h": 94347.53,
+            "low_1h": 93628.76
+        },
+        "volume": {
+            "last": 3.57099,
+            "average": 1.6048215,
+            "activity": "high"
+        },
+        "indicators": {
+            "rsi": 31.55,
+            "macd": -65.91523,
+            "macd_signal": -30.66549,
+            "macd_trend": "bearish",
+            "ema20": 93891.32,
+            "ema50": 93899.34,
+            "bollinger": {
+                "upper": 94465.03,
+                "middle": 93999.58,
+                "lower": 93534.14
+            },
+            "stochastic": {
+                "k": 0.0,
+                "d": 12.48
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.17,
+            "ask_volume": 2.13,
+            "spread": 46.329999999987194
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:31:02.478117",
+        "price": {
+            "last": 93678.9,
+            "average": 93905.2055,
+            "change_1m": 0.0,
+            "change_5m": -0.14,
+            "change_15m": -0.56,
+            "high_1h": 94347.53,
+            "low_1h": 93628.76
+        },
+        "volume": {
+            "last": 1.64878,
+            "average": 1.6069773333333333,
+            "activity": "high"
+        },
+        "indicators": {
+            "rsi": 31.98,
+            "macd": -73.95653,
+            "macd_signal": -39.31336,
+            "macd_trend": "bearish",
+            "ema20": 93871.09,
+            "ema50": 93890.62,
+            "bollinger": {
+                "upper": 94432.64,
+                "middle": 93968.56,
+                "lower": 93504.47
+            },
+            "stochastic": {
+                "k": 2.16,
+                "d": 7.05
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.21,
+            "ask_volume": 2.51,
+            "spread": 0.00999999999476131
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:32:03.202015",
+        "price": {
+            "last": 93685.6,
+            "average": 93905.9505,
+            "change_1m": 0.0,
+            "change_5m": -0.15,
+            "change_15m": -0.55,
+            "high_1h": 94347.53,
+            "low_1h": 93628.76
+        },
+        "volume": {
+            "last": 0.59769,
+            "average": 1.6150961666666668,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 32.75,
+            "macd": -78.76705,
+            "macd_signal": -47.05454,
+            "macd_trend": "bearish",
+            "ema20": 93853.39,
+            "ema50": 93881.48,
+            "bollinger": {
+                "upper": 94391.47,
+                "middle": 93937.87,
+                "lower": 93484.28
+            },
+            "stochastic": {
+                "k": 3.4,
+                "d": 1.85
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.04,
+            "ask_volume": 2.53,
+            "spread": 1.0599999999976717
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:33:03.813158",
+        "price": {
+            "last": 93697.12,
+            "average": 93907.01933333333,
+            "change_1m": 0.0,
+            "change_5m": -0.12,
+            "change_15m": -0.44,
+            "high_1h": 94347.53,
+            "low_1h": 93656.55
+        },
+        "volume": {
+            "last": 0.55125,
+            "average": 1.6020573333333332,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 34.11,
+            "macd": -81.35406,
+            "macd_signal": -54.31225,
+            "macd_trend": "bearish",
+            "ema20": 93838.21,
+            "ema50": 93876.61,
+            "bollinger": {
+                "upper": 94337.96,
+                "middle": 93906.88,
+                "lower": 93475.81
+            },
+            "stochastic": {
+                "k": 6.67,
+                "d": 3.82
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.13,
+            "ask_volume": 2.53,
+            "spread": 0.010000000009313226
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:34:04.496681",
+        "price": {
+            "last": 93674.49,
+            "average": 93907.24566666667,
+            "change_1m": 0.0,
+            "change_5m": -0.0,
+            "change_15m": -0.12,
+            "high_1h": 94347.53,
+            "low_1h": 93674.49
+        },
+        "volume": {
+            "last": 0.0,
+            "average": 1.5541334999999998,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 32.43,
+            "macd": -86.30789,
+            "macd_signal": -67.45276,
+            "macd_trend": "bearish",
+            "ema20": 93808.92,
+            "ema50": 93876.0,
+            "bollinger": {
+                "upper": 94217.13,
+                "middle": 93846.95,
+                "lower": 93476.77
+            },
+            "stochastic": {
+                "k": 4.41,
+                "d": 4.48
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.16,
+            "ask_volume": 2.38,
+            "spread": 2.1600000000034925
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:35:05.623331",
+        "price": {
+            "last": 93626.25,
+            "average": 93903.17800000001,
+            "change_1m": 0.0,
+            "change_5m": -0.06,
+            "change_15m": -0.19,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.09634,
+            "average": 1.4962705,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 29.59,
+            "macd": -92.90157,
+            "macd_signal": -73.31592,
+            "macd_trend": "bearish",
+            "ema20": 93787.39,
+            "ema50": 93865.56,
+            "bollinger": {
+                "upper": 94157.1,
+                "middle": 93814.48,
+                "lower": 93471.85
+            },
+            "stochastic": {
+                "k": 1.88,
+                "d": 2.04
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.36,
+            "ask_volume": 2.12,
+            "spread": 4.680000000007567
+        },
+        "trend": "downtrend",
+        "recommendation": "hold",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:36:06.187853",
+        "price": {
+            "last": 93747.85,
+            "average": 93903.52799999999,
+            "change_1m": 0.0,
+            "change_5m": 0.05,
+            "change_15m": -0.03,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.46128,
+            "average": 1.5092446666666666,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 43.05,
+            "macd": -78.0685,
+            "macd_signal": -73.56461,
+            "macd_trend": "bearish",
+            "ema20": 93793.08,
+            "ema50": 93869.99,
+            "bollinger": {
+                "upper": 94081.35,
+                "middle": 93797.04,
+                "lower": 93512.74
+            },
+            "stochastic": {
+                "k": 60.43,
+                "d": 38.75
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.1,
+            "ask_volume": 2.56,
+            "spread": 0.00999999999476131
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:37:07.096083",
+        "price": {
+            "last": 93718.0,
+            "average": 93900.16750000001,
+            "change_1m": 0.0,
+            "change_5m": 0.05,
+            "change_15m": -0.07,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.0,
+            "average": 1.5267218333333332,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 40.55,
+            "macd": -76.27067,
+            "macd_signal": -74.73075,
+            "macd_trend": "bearish",
+            "ema20": 93783.4,
+            "ema50": 93864.7,
+            "bollinger": {
+                "upper": 93987.94,
+                "middle": 93771.22,
+                "lower": 93554.51
+            },
+            "stochastic": {
+                "k": 46.06,
+                "d": 48.68
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.46,
+            "ask_volume": 2.47,
+            "spread": 45.429999999993015
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:38:07.665157",
+        "price": {
+            "last": 93768.52,
+            "average": 93898.65849999999,
+            "change_1m": 0.0,
+            "change_5m": 0.15,
+            "change_15m": 0.0,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.0102,
+            "average": 1.5321281666666666,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 45.58,
+            "macd": -64.37587,
+            "macd_signal": -71.45382,
+            "macd_trend": "bullish",
+            "ema20": 93786.23,
+            "ema50": 93858.72,
+            "bollinger": {
+                "upper": 93904.92,
+                "middle": 93756.48,
+                "lower": 93608.03
+            },
+            "stochastic": {
+                "k": 70.39,
+                "d": 62.28
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.39,
+            "ask_volume": 2.33,
+            "spread": 8.089999999996508
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:39:08.225913",
+        "price": {
+            "last": 93806.9,
+            "average": 93898.34150000001,
+            "change_1m": 0.0,
+            "change_5m": 0.08,
+            "change_15m": 0.04,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.0,
+            "average": 1.5077615,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 49.09,
+            "macd": -52.26196,
+            "macd_signal": -66.91155,
+            "macd_trend": "bullish",
+            "ema20": 93791.46,
+            "ema50": 93856.57,
+            "bollinger": {
+                "upper": 93866.62,
+                "middle": 93750.14,
+                "lower": 93633.66
+            },
+            "stochastic": {
+                "k": 88.87,
+                "d": 82.71
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.05,
+            "ask_volume": 2.58,
+            "spread": 0.010000000009313226
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:40:08.809594",
+        "price": {
+            "last": 93810.27,
+            "average": 93897.72883333331,
+            "change_1m": 0.0,
+            "change_5m": 0.1,
+            "change_15m": -0.0,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.0106,
+            "average": 1.4599815,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 49.4,
+            "macd": -44.6358,
+            "macd_signal": -62.69368,
+            "macd_trend": "bullish",
+            "ema20": 93793.3,
+            "ema50": 93856.5,
+            "bollinger": {
+                "upper": 93869.76,
+                "middle": 93751.34,
+                "lower": 93632.92
+            },
+            "stochastic": {
+                "k": 90.49,
+                "d": 89.41
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.39,
+            "ask_volume": 2.53,
+            "spread": 0.00999999999476131
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:41:09.475445",
+        "price": {
+            "last": 93809.12,
+            "average": 93896.76366666667,
+            "change_1m": 0.0,
+            "change_5m": 0.04,
+            "change_15m": -0.02,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.37801,
+            "average": 1.4433378333333333,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 49.25,
+            "macd": -38.39323,
+            "macd_signal": -58.17334,
+            "macd_trend": "bullish",
+            "ema20": 93794.81,
+            "ema50": 93857.02,
+            "bollinger": {
+                "upper": 93870.65,
+                "middle": 93751.66,
+                "lower": 93632.66
+            },
+            "stochastic": {
+                "k": 89.94,
+                "d": 89.65
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.33,
+            "ask_volume": 2.35,
+            "spread": 0.1299999999901047
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:42:10.187220",
+        "price": {
+            "last": 93767.33,
+            "average": 93894.08633333333,
+            "change_1m": 0.0,
+            "change_5m": -0.04,
+            "change_15m": -0.05,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.02283,
+            "average": 1.4244453333333333,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 45.25,
+            "macd": -38.4124,
+            "macd_signal": -54.81611,
+            "macd_trend": "bullish",
+            "ema20": 93789.19,
+            "ema50": 93853.26,
+            "bollinger": {
+                "upper": 93865.6,
+                "middle": 93749.41,
+                "lower": 93633.23
+            },
+            "stochastic": {
+                "k": 76.09,
+                "d": 79.75
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.74,
+            "ask_volume": 2.53,
+            "spread": 0.010000000009313226
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:43:10.802603",
+        "price": {
+            "last": 93761.94,
+            "average": 93891.61616666667,
+            "change_1m": 0.0,
+            "change_5m": -0.05,
+            "change_15m": 0.09,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.0302,
+            "average": 1.4110786666666664,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 44.77,
+            "macd": -36.32935,
+            "macd_signal": -51.02486,
+            "macd_trend": "bullish",
+            "ema20": 93786.1,
+            "ema50": 93848.31,
+            "bollinger": {
+                "upper": 93863.59,
+                "middle": 93748.24,
+                "lower": 93632.89
+            },
+            "stochastic": {
+                "k": 74.28,
+                "d": 73.52
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.37,
+            "ask_volume": 2.48,
+            "spread": 0.25
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:44:11.480309",
+        "price": {
+            "last": 93784.42,
+            "average": 93890.20000000001,
+            "change_1m": 0.0,
+            "change_5m": -0.03,
+            "change_15m": 0.11,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.01,
+            "average": 1.4461478333333335,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 47.38,
+            "macd": -30.79245,
+            "macd_signal": -46.57446,
+            "macd_trend": "bullish",
+            "ema20": 93787.86,
+            "ema50": 93845.88,
+            "bollinger": {
+                "upper": 93867.44,
+                "middle": 93750.32,
+                "lower": 93633.21
+            },
+            "stochastic": {
+                "k": 86.24,
+                "d": 81.92
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.65,
+            "ask_volume": 2.53,
+            "spread": 0.17999999999301508
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:45:12.189128",
+        "price": {
+            "last": 93789.52,
+            "average": 93888.83899999999,
+            "change_1m": 0.0,
+            "change_5m": 0.02,
+            "change_15m": 0.12,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.30596,
+            "average": 1.4591761666666667,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 48.08,
+            "macd": -25.71068,
+            "macd_signal": -41.33881,
+            "macd_trend": "bullish",
+            "ema20": 93788.88,
+            "ema50": 93837.53,
+            "bollinger": {
+                "upper": 93870.86,
+                "middle": 93751.96,
+                "lower": 93633.05
+            },
+            "stochastic": {
+                "k": 88.96,
+                "d": 89.3
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.69,
+            "ask_volume": 2.44,
+            "spread": 0.3099999999976717
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:46:12.812430",
+        "price": {
+            "last": 93779.13,
+            "average": 93888.3265,
+            "change_1m": 0.0,
+            "change_5m": 0.02,
+            "change_15m": 0.09,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.02105,
+            "average": 1.4433333333333336,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 46.8,
+            "macd": -23.90274,
+            "macd_signal": -38.24161,
+            "macd_trend": "bullish",
+            "ema20": 93788.1,
+            "ema50": 93838.25,
+            "bollinger": {
+                "upper": 93866.37,
+                "middle": 93750.21,
+                "lower": 93634.05
+            },
+            "stochastic": {
+                "k": 83.43,
+                "d": 88.5
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.7,
+            "ask_volume": 2.56,
+            "spread": 0.00999999999476131
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:47:13.400329",
+        "price": {
+            "last": 93747.83,
+            "average": 93886.20683333333,
+            "change_1m": 0.0,
+            "change_5m": -0.04,
+            "change_15m": 0.08,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.17603,
+            "average": 1.4263685,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 43.46,
+            "macd": -26.56436,
+            "macd_signal": -36.4746,
+            "macd_trend": "bullish",
+            "ema20": 93781.58,
+            "ema50": 93834.77,
+            "bollinger": {
+                "upper": 93853.73,
+                "middle": 93744.52,
+                "lower": 93635.32
+            },
+            "stochastic": {
+                "k": 66.77,
+                "d": 74.27
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.62,
+            "ask_volume": 2.21,
+            "spread": 0.03999999999359716
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:48:13.985676",
+        "price": {
+            "last": 93771.83,
+            "average": 93885.18100000001,
+            "change_1m": 0.0,
+            "change_5m": -0.03,
+            "change_15m": 0.16,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.2063,
+            "average": 1.4429686666666663,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 46.58,
+            "macd": -22.95104,
+            "macd_signal": -33.56787,
+            "macd_trend": "bullish",
+            "ema20": 93782.74,
+            "ema50": 93833.97,
+            "bollinger": {
+                "upper": 93850.3,
+                "middle": 93743.78,
+                "lower": 93637.27
+            },
+            "stochastic": {
+                "k": 79.11,
+                "d": 75.1
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.62,
+            "ask_volume": 2.39,
+            "spread": 6.220000000001164
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:49:14.559884",
+        "price": {
+            "last": 93837.63,
+            "average": 93885.80916666667,
+            "change_1m": 0.0,
+            "change_5m": 0.05,
+            "change_15m": 0.11,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.00021,
+            "average": 1.4597113333333334,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 54.1,
+            "macd": -11.98666,
+            "macd_signal": -28.4118,
+            "macd_trend": "bullish",
+            "ema20": 93793.64,
+            "ema50": 93836.59,
+            "bollinger": {
+                "upper": 93870.28,
+                "middle": 93755.21,
+                "lower": 93640.14
+            },
+            "stochastic": {
+                "k": 96.44,
+                "d": 91.31
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.64,
+            "ask_volume": 2.5,
+            "spread": 0.00999999999476131
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:50:15.145546",
+        "price": {
+            "last": 93827.11,
+            "average": 93884.98983333334,
+            "change_1m": 0.0,
+            "change_5m": 0.08,
+            "change_15m": 0.12,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.0204,
+            "average": 1.4766896666666667,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 52.8,
+            "macd": -8.98333,
+            "macd_signal": -24.8171,
+            "macd_trend": "bullish",
+            "ema20": 93795.95,
+            "ema50": 93836.96,
+            "bollinger": {
+                "upper": 93874.32,
+                "middle": 93762.09,
+                "lower": 93649.86
+            },
+            "stochastic": {
+                "k": 87.96,
+                "d": 91.29
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.26,
+            "ask_volume": 2.58,
+            "spread": 0.00999999999476131
+        },
+        "trend": "uptrend",
+        "recommendation": "buy",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:51:15.734369",
+        "price": {
+            "last": 93766.58,
+            "average": 93882.55283333332,
+            "change_1m": 0.0,
+            "change_5m": -0.01,
+            "change_15m": -0.0,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.28044,
+            "average": 1.4542183333333334,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 45.85,
+            "macd": -12.71953,
+            "macd_signal": -22.83944,
+            "macd_trend": "bullish",
+            "ema20": 93790.18,
+            "ema50": 93832.9,
+            "bollinger": {
+                "upper": 93867.64,
+                "middle": 93764.63,
+                "lower": 93661.62
+            },
+            "stochastic": {
+                "k": 20.1,
+                "d": 56.06
+            }
+        },
+        "market_depth": {
+            "bid_volume": 1.62,
+            "ask_volume": 2.36,
+            "spread": 0.020000000004074536
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "timestamp": "2025-04-25 03:52:16.367558",
+        "price": {
+            "last": 93751.96,
+            "average": 93880.1343333333,
+            "change_1m": 0.0,
+            "change_5m": -0.09,
+            "change_15m": -0.06,
+            "high_1h": 94347.53,
+            "low_1h": 93626.24
+        },
+        "volume": {
+            "last": 0.29576,
+            "average": 1.4735241666666667,
+            "activity": "low"
+        },
+        "indicators": {
+            "rsi": 44.49,
+            "macd": -15.84003,
+            "macd_signal": -21.90048,
+            "macd_trend": "bullish",
+            "ema20": 93784.96,
+            "ema50": 93830.61,
+            "bollinger": {
+                "upper": 93865.3,
+                "middle": 93766.43,
+                "lower": 93667.56
+            },
+            "stochastic": {
+                "k": 36.79,
+                "d": 43.6
+            }
+        },
+        "market_depth": {
+            "bid_volume": 2.09,
+            "ask_volume": 2.44,
+            "spread": 0.00999999999476131
+        },
+        "trend": "downtrend",
+        "recommendation": "sell",
+        "mode": "hourly"
+    }
+]
